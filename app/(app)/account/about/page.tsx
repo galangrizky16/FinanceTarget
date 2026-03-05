@@ -177,14 +177,14 @@ export default function AboutPage() {
           {/* App Version */}
           <Section title="Versi Aplikasi" className="fade-up fade-up-4">
             <InfoItem label="Versi" value="1.0.0" />
-            <InfoItem label="Build" value="2024.03.001" />
-            <InfoItem label="Terakhir Diperbarui" value="Maret 2024" />
+            <InfoItem label="Build" value="2026.03.005" />
+            <InfoItem label="Terakhir Diperbarui" value="Maret 2026" />
           </Section>
 
           {/* Footer Info */}
           <div className="text-center pt-2 pb-4 fade-up fade-up-4">
             <p className="text-xs text-slate-400">
-              © 2024 Finance Target. All rights reserved.
+              © 2026 Finance Target. All rights reserved.
             </p>
             <p className="text-xs text-slate-400 mt-1">
               Dibuat dengan ❤️ untuk Indonesia
